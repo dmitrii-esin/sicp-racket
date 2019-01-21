@@ -1,6 +1,6 @@
 #lang info
 
-(define name "sicp-racket-boilerplate")
+(define name "SICP-problem-solving-with-Racket-lang")
 
 #| (define blurb |#
 #|   (list '(p "Write RESTful web apps in Racket."))) |#

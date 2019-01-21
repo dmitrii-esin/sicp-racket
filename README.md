@@ -3,13 +3,13 @@
 ![SICP](https://github.com/sunndeath/sicp-racket/blob/master/images/sicp-icon.png)
 
 
-### Requirements
+Requirements
 
 * Racket
 * Rackunit (`raco pkg install rackunit`)
 * Make
 
-### Using~
+Using
 
 1. git clone https://github.com/sunndeath/sicp-racket
 1. write code (look `sicp/chapter1/02.rkt`)
@@ -17,4 +17,5 @@
 
 ##
 Inspired by Hexlet.io
+
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/hexletguides.github.io/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=sicp-racket)

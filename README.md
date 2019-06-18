@@ -6,9 +6,9 @@
 
 ### Requirements
 
-* Racket
-* Rackunit (`raco pkg install rackunit`)
-* Make
+- Racket
+- Rackunit (`raco pkg install rackunit`)
+- Make
 
 ### Using
 

@@ -1,4 +1,4 @@
-#lang info
+#lang  info
 
 (define name "SICP-problem-solving-with-Racket-lang")
 

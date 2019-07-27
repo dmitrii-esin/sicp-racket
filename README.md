@@ -10,7 +10,7 @@
 * Rackunit (`raco pkg install rackunit`)
 * Make
 
-### Using111
+### Using
 
 1. git clone https://github.com/sunndeath/sicp-racket
 1. write code (look `sicp/chapter1/02.rkt`)

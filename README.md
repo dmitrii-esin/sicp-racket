@@ -12,7 +12,7 @@
 
 ### Using
 
-1. git clone https://github.com/sunndeath/sicp-racket
+1. git clone
 1. write code (look `sicp/chapter1/02.rkt`)
 1. run tests `make test`
 
